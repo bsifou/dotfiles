@@ -1,0 +1,25 @@
+clear lock 
+clear control
+clear mod1
+remove mod4 = Alt_L
+
+keycode 64 = Control_L
+keycode 108 = Control_R
+
+keycode 133 = Alt_L
+keycode 135 = Alt_R
+
+keycode 37 = Super_L
+keycode 105 = Super_R
+keycode 66 = BackSpace
+
+add control = Control_L Control_R
+add mod1 = Alt_L Alt_R
+
+keycode 18 = 9 braceleft
+keycode 19 = 0 braceright
+
+keycode 34 = parenleft bracketleft
+keycode 35 = parenright bracketright
+
+ 
